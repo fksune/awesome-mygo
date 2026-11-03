@@ -39,6 +39,7 @@
 | [Pulse](https://pulse.egoist.dev/) by [egoist](https://github.com/egoist), the creator of MyGo | [APIGo](https://github.com/younland/apigo) by [younland](https://github.com/younland) |
 |---|---|
 | <img src="assets/pulse-overview-dark.jpg" width="400" alt="Pulse screenshot"> | <img src="assets/apigo-request-params-light.png" width="400" alt="APIGo screenshot"> |
+| <a href="https://nodra.yldm.ai/">Nodra</a> by <a href="https://github.com/yldm-tech">yldm-tech</a> — concurrent reactive state management for Go desktop apps<br><img src="assets/nodra-overview-zh.png" width="400" alt="Nodra overview"> | |
 
 For more apps visit [here](https://mygo.egoist.dev/showcase).
 

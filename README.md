@@ -34,6 +34,7 @@
 - [Onevra](https://github.com/oneo-me/onevra) Themed UI components by [ONEO](https://github.com/oneo-me)
 - [mygo-platinum](https://github.com/firede/mygo-platinum) late-1990s "Platinum" desktop themed UI components by [Zhao Lei](https://github.com/firede)
 - [AI Logo](https://github.com/yldm-tech/ai-logo) 1298 AI and service brand marks for MyGo native UI, available as the Go module [`github.com/yldm-tech/ai-logo/mygo`](https://github.com/yldm-tech/ai-logo/tree/main/mygo)
+  <br><img src="assets/ai-logo-overview.png" width="400" alt="AI Logo overview">
 
 ## Showcase
 

@@ -31,8 +31,11 @@
 
 ## Components
 
-- [Onevra](https://github.com/oneo-me/onevra) Themed UI components by [ONEO](https://github.com/oneo-me)
-- [mygo-platinum](https://github.com/firede/mygo-platinum) late-1990s "Platinum" desktop themed UI components by [Zhao Lei](https://github.com/firede)
+- **[Onevra](https://github.com/oneo-me/onevra)**: A Go component library for native desktop apps with themed controls, window shells, Lucide icons, and complex components like chat, Markdown, and charts. It also includes a standalone packager for macOS, Windows, and Linux. Created by [oneo-me](https://github.com/oneo-me).
+- **[MujicaUI](https://github.com/ELY-Open-Source/MujicaUI)**: A court-gothic themed component library for MyGo native UI, featuring 100 components, light/dark themes, and three density options, drawn on the GPU without HTML, JavaScript, or WebView. Created by [ELY-Open-Source](https://github.com/ELY-Open-Source).
+- **[CrychicUI](https://github.com/ELY-Open-Source/CrychicUI)**: A massive Go component library for MyGo native UI with 1,500 components across 38 categories, matching MyGo's own look and including motion and sound for interactive elements. Created by [ELY-Open-Source](https://github.com/ELY-Open-Source).
+- **[8bitMyGoUI](https://github.com/ELY-Open-Source/8bitMyGoUI)**: A 16-bit pixel-art component library for MyGo native UI with 500 components across 22 categories, using a strict 16-slot palette and no anti-aliasing for an authentic retro look. Created by [ELY-Open-Source](https://github.com/ELY-Open-Source).
+- **[mygo-platinum](https://github.com/firede/mygo-platinum)** :late-1990s "Platinum" desktop themed UI components by [Zhao Lei](https://github.com/firede)
 
 ## Showcase
 
